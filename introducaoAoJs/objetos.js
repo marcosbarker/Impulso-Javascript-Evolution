@@ -11,5 +11,3 @@ var arrayInterno = objeto.arrayInterno;
 
 //desestruturacao de objeto no momento da declaracao
 var {string, number, Boolean} = objeto;
-
-
